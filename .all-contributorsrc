@@ -1,0 +1,27 @@
+{
+  "projectName": "vue-components",
+  "projectOwner": "jacobparis",
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com",
+  "repoType": "github",
+  "skipCi": false,
+  "files": [
+    "README.md"
+  ],
+  "contributors": [
+    {
+      "login": "jacobparis",
+      "name": "Jacob Paris",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5633704?s=400&u=9d8f6f4dc1159f808077a6f0c638b967a3a98f31&v=4",
+      "profile": "https://jacobparis.com",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "test"
+      ]
+    }
+  ]
+}
